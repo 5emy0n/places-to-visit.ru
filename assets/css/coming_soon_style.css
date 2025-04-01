@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(179, 179, 179);
+}
+.main-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 14rem auto;
+    background-color: rgb(148, 148, 148);
+    border-radius: 17px;
+}
+.main-div h1{
+    color: black;
+    font-size: 3rem;
+    text-align: center;
+}
+.main-div p{
+    color: rgb(207, 214, 219);
+    font-size: 1.7rem;
+    text-align: center;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
